@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/ABHIJITHAJIKUMAR/ABHIJITHAJIKUMAR.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Myself Abhijith A. Iam currently pursuing my final year B.Tech in Mechanical Engineering from MES College of Engineering. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the link to [visit my linkedin profile](https://www.linkedin.com/in/abhijithajikumar/).
 
-### Markdown
+Recently, our college was selected among 20 others in kerala where a fabrication lab (FABLAB) was to be setup. It gives me great pleasure to document and share my FABLAB experiences with you using this platform.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### DAY 1 (2 AUGUST 2017 )
 
-```markdown
-Syntax highlighted code block
+I was very excited today to attend the FABLAB training and being part of the very 1st batch of students undergoing hands-on training in this well equipied lab. Our trainer was Mr. Mohammed Jaseel. Jaseel sir is very informative and he indroduced us to fablab. He gave an overview of this course which i felt well structured and interesting. 
 
-# Header 1
-## Header 2
-### Header 3
+### DAY 2 ( 3 AUGUST 2017 )
 
-- Bulleted
-- List
+Today he indroduced us to various equipments in the lab.
 
-1. Numbered
-2. List
+   ### 3-D PRINTING
 
-**Bold** and _Italic_ and `Code` text
+3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ABHIJITHAJIKUMAR/ABHIJITHAJIKUMAR.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced horizontal cross-section of the eventual object.
