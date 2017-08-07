@@ -14,7 +14,7 @@ I was very excited today to attend the FABLAB training and being part of the ver
 
 Today he indroduced us to various equipments in the lab.
 
-   ### 3-D PRINTING
+### 3-D PRINTING
 
 3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file.
 
