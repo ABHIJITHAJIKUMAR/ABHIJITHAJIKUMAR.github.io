@@ -22,6 +22,7 @@ The creation of a 3D printed object is achieved using additive processes. In an 
 
 ### LASER CUTTING
 
+```markown
 Step 1 
 Turn on the machine. (Epilog mini24)
 
@@ -70,7 +71,8 @@ Step 10
 
 When running the job, DD NOT leave them machine unsupervised.
 When display say's 'done", please wait 10 - 30 seconds before opening machine.
-
+```
+```markdown
 ### VINYL CUTTING
 
 1. Turn machine on.
@@ -110,7 +112,7 @@ Which option you choose from the menu depends on what material you are loading.
 Roll is for setting up the starting point manually.
 Piece is for letting the machine measure all sides of your loaded sheet. (like with smaller 'leftover' pieces)
 Edge is for letting the machine only find only 1 side of your loaded material. (when you just want to find the starting point at the edge of your material.)
-
+```
 
 
 7. To confirm, push the [enter] button. The machine will now start moving. The machine will pull on the material to find the edge.
