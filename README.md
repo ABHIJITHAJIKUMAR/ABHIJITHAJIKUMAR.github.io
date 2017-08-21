@@ -20,7 +20,7 @@ Today our trainer indroduced us to various equipments in the lab.
 
 The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced horizontal cross-section of the eventual object.
 
-<img src="IMG_20170817_181250997.jpg" height="500" width="850">
+<img src="IMG_20170821_234048171[1]" height="500" width="850">
 
 ### LASER CUTTING
 
