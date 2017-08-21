@@ -14,6 +14,7 @@ I was very excited today to attend the FABLAB training and being part of the ver
 
 Today our trainer indroduced us to various equipments in the lab.
 
+##DAY 3
 ### 3-D PRINTING
 
 3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file.
@@ -23,7 +24,7 @@ The creation of a 3D printed object is achieved using additive processes. In an 
 <img src="IMG_20170817_184025382.jpg" height="500" width="850">
 <img src="IMG_20170821_234048171[1].jpg" height="500" width="850">
 
-
+##DAY 4
 ### LASER CUTTING
 
 ```markown
@@ -70,6 +71,7 @@ When display say's 'done", please wait 10 - 30 seconds before opening machine.
 <img src="IMG_20170817_181250997.jpg" height="500" width="850">
 
 ```markdown
+##DAY 5
 ### VINYL CUTTING
 
 1. Turn machine on.
@@ -132,4 +134,3 @@ Finally, place the design on the item where you want to transfer it to. Rub one 
 
 
 
-<img src=" " height="500" width="850">
