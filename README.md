@@ -68,6 +68,7 @@ Step 10
 When running the job, DD NOT leave them machine unsupervised.
 When display say's 'done", please wait 10 - 30 seconds before opening machine.
 ```
+<img src="epilog.jpg" height="500" width="850">
 <img src="IMG_20170817_181250997.jpg" height="500" width="850">
 
 ```markdown
