@@ -131,6 +131,7 @@ First peel off the background pieces. Leave the pieces that are your design.
 Second, place the transfer paper over your sticker and rub.
 Third, (at home) peel off the backing of the material. (The design will stick to the transfer paper)
 Finally, place the design on the item where you want to transfer it to. Rub one final time and gently pull away the transfer paper. DONE.
+<img src="guitar.jpg" height="500" width="850">
 
 
 
